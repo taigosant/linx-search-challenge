@@ -26,7 +26,7 @@ linx-search-challenge
 
 ## Execução 
 
-Para compilar o projeto você precirá do CMake [[2]](Phttps://cmake.org/) instalado.
+Para compilar o projeto você precirá do CMake [[2]](https://cmake.org/) instalado.
 Para compilar bastar rodar os comandos:
 ```
 cmake .
